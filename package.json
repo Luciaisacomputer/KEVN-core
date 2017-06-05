@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "argv": "0.0.2",
     "serialport": "^4.0.7"
   }
 }
